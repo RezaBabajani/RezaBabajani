@@ -56,7 +56,7 @@ I design and deploy real-time AI systems that combine robust research with produ
 ### 🧪 Liquid Sloshing Control via Vision
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Sloshing Control" width="600"/>
+  <img src="https://github.com/RezaBabajani/RezaBabajani/blob/main/Exp_setup1.png" alt="Sloshing Control" width="600"/>
 </p>
 
 - Designed a real-time vision-based feedback system for sloshing control in perfume bottle production.
