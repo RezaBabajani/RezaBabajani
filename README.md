@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://files09.oaiusercontent.com/file-1fzxEtXoz4a9y45hAAtyVL?se=2025-05-21T09%3A51%3A28Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4ac38fa5-354b-48d9-9645-b596574c30ea.webp&sig=M8Xovf2J0/PWmNKcYc2rbGxAWbGZuUU6t0d9c04WGz4%3D" alt="AI Banner" width="35%"/>
-</p>
-
 <h1 align="center">Hi, I'm Reza Babajani 👋</h1>
 
 <p align="center">
