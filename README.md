@@ -22,7 +22,7 @@ I design and deploy real-time AI systems that combine robust research with produ
 ### 📄 ChatGPT-Powered Business Document Analyzer (RAG)
 
 <p align="center">
-  <img src="[https://files.oaiusercontent.com/file-H55zPVaVinpEGxWqQsgPdA?se=2025-05-21T09%3A57%3A56Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1d2ec32c-0d41-4dbd-8fbe-d5f42191b983.webp&sig=OqyOABCsCSEJjqBkvJCDFh921A6%2BwGf7w/MiCDNTXs0%3D](https://cdn.prod.website-files.com/61082de7b224bb1768edad68/6704484409635e6a0dbf4098_65982e165de858b7c41f4fa3_Img%25201.webp)" alt="RAG System Architecture" width="400"/>
+  <img src="https://github.com/RezaBabajani/RezaBabajani/blob/main/RAG.webp" alt="RAG System Architecture" width="400"/>
 </p>
 
 - Developed a real-time document Q&A engine using **RAG + GPT-4**.
