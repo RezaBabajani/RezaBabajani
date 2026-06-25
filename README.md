@@ -93,7 +93,7 @@ I design and deploy real-time AI systems that combine robust research with produ
 **[📄 View Full PDF Certificate](./Innosuisse_Reza_Bababjani.pdf)**
 
 <a href="./path-to-your-file/certificate.pdf">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Innosuisse_Reza_Bababjani.png" width="400" alt="Innosuisse Certificate Preview">
+  <img src="./Innosuisse_Reza_Bababjani.png" width="400" alt="Innosuisse Certificate Preview">
 </a>
 
 ---
