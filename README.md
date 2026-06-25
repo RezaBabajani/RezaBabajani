@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Reza Babajani 👋</h1>
 
 <p align="center">
-  <strong>PhD | AI Researcher & Computer Vision Engineer | Full-Stack Developer</strong><br/>
+  <strong>PhD | AI Researcher & Computer Vision Engineer </strong><br/>
   <em>Transforming deep learning models into impactful real-world applications</em>
 </p>
 
 <p align="center">
-  📍 Toulouse, France &nbsp;|&nbsp; 📧 babajanireza71@gmail.com &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/reza-babajanivalashedi-phd-846335120/">LinkedIn</a>
+  📍 lausanne, Switzerland &nbsp;|&nbsp; 📧 babajanireza71@gmail.com &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/reza-babajanivalashedi-phd-846335120/">LinkedIn</a>
 </p>
 
 ---
