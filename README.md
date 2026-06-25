@@ -90,10 +90,10 @@ I design and deploy real-time AI systems that combine robust research with produ
 
 > Specialized entrepreneurship training focused on business modeling, market validation, and startup strategy for science-based ventures.
 
-**[📄 View Full PDF Certificate](./Innosuisse_Reza_Bababjani.pdf)** (Replace with your actual link)
+**[📄 View Full PDF Certificate](./Innosuisse_Reza_Bababjani.pdf)**
 
 <a href="./path-to-your-file/certificate.pdf">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/certificate_screenshot.png" width="400" alt="Innosuisse Certificate Preview">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Innosuisse_Reza_Bababjani.png" width="400" alt="Innosuisse Certificate Preview">
 </a>
 
 ---
