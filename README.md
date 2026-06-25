@@ -82,6 +82,22 @@ I design and deploy real-time AI systems that combine robust research with produ
 
 ---
 
+## 📜 Certifications
+
+### **Innosuisse Business Concept (Biopôle Lausanne)**
+**Issued by:** Venturelab / Innosuisse  
+**Date:** March 2026 | **Certificate ID:** 07A49A0978C596FD
+
+> Specialized entrepreneurship training focused on business modeling, market validation, and startup strategy for science-based ventures.
+
+**[📄 View Full PDF Certificate](./certificate.pdf)** (Replace with your actual link)
+
+<a href="./path-to-your-file/certificate.pdf">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/certificate_screenshot.png" width="400" alt="Innosuisse Certificate Preview">
+</a>
+
+---
+
 ## 📚 Publications
 
 - Babajani, R. et al. _“Sloshing control with genetic algorithm in point-to-point motion of a rigid container”_ – In review.
