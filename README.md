@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📍 lausanne, Switzerland &nbsp;|&nbsp; 📧 babajanireza71@gmail.com &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/reza-babajanivalashedi-phd-846335120/">LinkedIn</a>
+  📍 Lausanne, Switzerland &nbsp;|&nbsp; 📧 babajanireza71@gmail.com &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/reza-babajanivalashedi-phd-846335120/">LinkedIn</a>
 </p>
 
 ---
